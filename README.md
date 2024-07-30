@@ -134,9 +134,9 @@ Admin Functionality
         Track stock levels based on user purchases.
         Update stock quantities as needed.
 
-License
+Period
 
-This project is licensed under the MIT License.
+This project follows all software design principles, it was developed within a period of a semester, 3 months.
 Contact
 
 For any inquiries or questions, please contact pholohohlaha@gmail.com.
